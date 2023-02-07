@@ -1,0 +1,6 @@
+F:\Lab\labs\quiz\Buttons\bin\Debug\Buttons.dll
+F:\Lab\labs\quiz\Buttons\bin\Debug\Buttons.pdb
+F:\Lab\labs\quiz\Buttons\obj\Debug\Buttons.csproj.AssemblyReference.cache
+F:\Lab\labs\quiz\Buttons\obj\Debug\Buttons.csproj.CoreCompileInputs.cache
+F:\Lab\labs\quiz\Buttons\obj\Debug\Buttons.dll
+F:\Lab\labs\quiz\Buttons\obj\Debug\Buttons.pdb

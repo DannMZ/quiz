@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Lab\\labs\\quiz\\quiz\\quiz.csproj": {}
+  },
+  "projects": {
+    "F:\\Lab\\labs\\quiz\\Buttons\\Buttons.csproj": {
+      "restore": {
+        "projectUniqueName": "F:\\Lab\\labs\\quiz\\Buttons\\Buttons.csproj",
+        "projectName": "Buttons",
+        "projectPath": "F:\\Lab\\labs\\quiz\\Buttons\\Buttons.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "F:\\Lab\\labs\\quiz\\quiz\\quiz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Lab\\labs\\quiz\\quiz\\quiz.csproj",
+        "projectName": "quiz",
+        "projectPath": "F:\\Lab\\labs\\quiz\\quiz\\quiz.csproj",
+        "packagesPath": "C:\\Users\\mazariny\\.nuget\\packages\\",
+        "outputPath": "F:\\Lab\\labs\\quiz\\quiz\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mazariny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "F:\\Lab\\labs\\quiz\\Buttons\\Buttons.csproj": {
+                "projectPath": "F:\\Lab\\labs\\quiz\\Buttons\\Buttons.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
